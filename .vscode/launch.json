@@ -8,7 +8,7 @@
         "program": "${workspaceFolder}/node_modules/mocha/bin/_mocha",
         "args": [
             "--inspect-brk",
-            "${workspaceFolder}/test/delete-digit.test.js"
+            "${workspaceFolder}/test/count-cats.test.js"
         ],
         "internalConsoleOptions": "openOnSessionStart"
       },
